@@ -1,0 +1,307 @@
+
+.container{
+
+	font-family: ubuntu;
+	width: 100vw;
+	height: 100vh;
+	
+	
+}
+
+#sys{
+	font-size: 18px;
+	color: #26558c ;
+}
+/* 
+@media (max-width: 900px) {
+	.container{
+
+		display: block;
+		width: 100%;
+		
+	}	
+} */
+
+
+#cont1{
+	color: #27374a;
+}
+
+#cont2{
+	color: #29448f;
+	font-size: 25px;
+}
+
+#cont3{
+	color: #5f6163;
+	font-size: 14px ;
+	margin-top: 5vh;
+	
+
+}
+
+#cont31{
+	color: #26558c;
+	font-size: 20px;
+}
+#cont32{
+	color: #546773 ;
+	margin-top: 12px;
+	font-size: 18px;
+}
+
+#cont4{
+	color: #26558c;
+	margin-top: 7vh
+}
+
+#cont4:active{
+	color: #26558c;
+}
+
+#cont4:visited{
+	color: #26558c;
+}
+
+
+
+#cont322{
+	color: #27374a ;
+}
+
+#cont5{
+
+	color: #5f6163;
+	font-size: 19px ;
+	display: inline;
+
+}
+
+#cont55{
+	margin-top: 7vh;
+}
+body{
+	background-color: white;
+}
+
+
+
+.img1{ 
+	user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	-webkit-user-select: none;
+
+}
+
+
+
+#com{
+	text-decoration: none;
+}
+
+
+
+a .github:hover path {
+    fill: black;
+}
+
+.git-class {
+    
+    display: inline-block;
+}
+
+a .insta:hover path{
+	fill: #DD2A7B;
+}
+
+.in-class {
+	display: inline-block;
+}
+
+a .mail:hover path{
+	fill: #DB4437;
+}
+
+.mail-class{
+	display: inline-block;
+}
+
+a .linkedin:hover path{ 
+	fill: #0072b1;
+}
+
+.link-class{
+	display: inline-block;
+}
+
+#click{
+	
+	text-decoration: none;
+
+}
+
+#click:active{
+	color: #2C1D6D;
+}
+
+#click:visited{
+	color: #2C1D6D;
+}
+
+#bloggerap:hover{
+	text-underline-offset: 2px;
+}
+
+#bloggerap:visited{
+	color: #27374a;
+}
+
+#bloggerap:active{
+	color: #27374a;
+}
+
+#bloggerap{
+	text-decoration: none;
+}
+
+.tcs	{
+ 
+	text-decoration: none;
+	border-bottom: 2px	solid #ccf3ff;
+	/* text-decoration-color: #b8cae6; */
+	transition: 0.3s;
+	padding-bottom: 2px;
+	color: inherit;
+
+}
+.tcs:active	{
+	color: #26558c
+
+}
+.tcs:visited	{
+	color: #26558c
+
+}
+
+.tcs:hover	{
+	border-bottom-color: #00a6d9;
+}
+
+
+
+#acc	{
+ 
+	text-decoration: none;
+	border-bottom: 2px	solid #f0cef2;
+	text-decoration-color: #b8cae6;
+	transition: 0.3s;
+
+
+}
+#acc:active	{
+	color: #26558c
+
+}
+#acc:visited	{
+	color: #26558c
+
+}
+
+#acc:hover	{
+	border-bottom-color: #9407a3;
+}
+
+#resume	{
+ 
+	text-decoration: none;
+	border-bottom: 2px	solid #ccf3ff;
+	text-decoration-color: #26558c;
+	transition: 0.3s;
+	padding-bottom: 2px;
+	color: inherit;
+
+}
+#resume:active	{
+	color: #26558c
+
+}
+#resume:visited	{
+	color: #26558c
+
+}
+
+#resume:hover	{
+	border-bottom-color: #00a6d9;
+}
+
+
+#blog	{
+ 
+	text-decoration: none;
+	border-bottom: 2px	solid #daf5ec;
+	text-decoration-color: #b8cae6;
+	transition: 0.3s;
+	padding-bottom: 2px;
+	color: inherit;
+
+}
+#blog:active	{
+	color: #26558c
+
+}
+#blog:visited	{
+	color: #26558c
+
+}
+
+#blog:hover	{
+	border-bottom-color: #24b383;
+}
+
+
+#Jawwy	{
+ 
+	text-decoration: none;
+	border-bottom: 2px solid #ffdeb3;
+	text-decoration-color: #b8cae6;
+	transition: 0.3s;
+	padding-bottom: 2px;
+	color: inherit;
+
+}
+#Jawwy:active	{
+	color: #26558c
+
+}
+#Jawwy:visited	{
+	color: #26558c
+
+}
+
+#Jawwy:hover	{
+	border-bottom-color: #ff9000;
+}
+
+#Stc	{
+ 
+	text-decoration: none;
+	border-bottom: 2px solid #e0c0fa;
+	text-decoration-color: #b8cae6;
+	transition: 0.3s;
+	padding-bottom: 2px;
+	color: inherit;
+
+}
+#Stc:active	{
+	color: #26558c
+
+}
+#Stc:visited	{
+	color: #26558c
+
+}
+
+#Stc:hover	{
+	border-bottom-color: #55009c;
+}
